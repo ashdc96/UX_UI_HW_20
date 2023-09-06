@@ -1,0 +1,30 @@
+
+/*Navigation*/
+.nav-link{
+    color: black;
+}
+
+.card-img-top {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 850px;
+}
+
+.card-title{
+    color:black;
+}
+
+.card-text{
+    color:black
+}
+
+.container{
+    display: flex;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto
+  }
+
